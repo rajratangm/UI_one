@@ -188,7 +188,7 @@ button.st-emotion-cache-18hpnz2.ef3psqc19:hover {
 
 
 
-st.logo(r'assets\logo.svg', icon_image='assets\logo-sm.svg',size='large')
+st.logo(r'assets/logo.svg', icon_image='assets/logo-sm.svg',size='large')
 
 
 if "current_page" not in st.session_state:
